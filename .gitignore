@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# fichiers générés par next dev (consignes pour assistants de code)
+AGENTS.md
+CLAUDE.md
